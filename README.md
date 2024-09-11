@@ -15,7 +15,9 @@
 | ----------- | ----------- |
 | Stuff | More Stuff |
 | Paragraph | Text |
+
 ---
+
 [Link to Facebook](https://www.facebook.com/)
 
 ![Katana](https://www.theswordshop.co.uk/media/catalog/product/cache/4/image/364x364/daf3e11d43b2966787d609522f0b37a9/s/u/suv-6.png)([](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjdzs6yvop35c1.png&rdt=65318))
@@ -25,3 +27,12 @@
 That is so funny! :joy:
 
 I need to highlight these ==Joe Biden==.
+
+
+```
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
+}
+```
