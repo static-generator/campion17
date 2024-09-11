@@ -1,4 +1,4 @@
-# campion17
+# Campion 17
 ## I am Alkaid A. Guimbaolibot
 ### From 9 - Campion
 
@@ -39,5 +39,17 @@ I need to highlight these ==Joe Biden==.
 "age": 25
 }
 ```
+
+Nocturnal
+: done, occurring, or active at night.
+"most owls are nocturnal"
+
+---
+
+# Pictures of this Game 😄
+
+![HSR](https://images.alphacoders.com/135/thumb-1920-1353722.jpeg)
+![HSR](https://images.wallpapersden.com/image/download/stelle-and-firefly-friendship-hd-honkai-star-rail_bmdqZmWUmZqaraWkpJRmbmltrWZlbWU.jpg)
+
 
 
