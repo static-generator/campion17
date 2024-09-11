@@ -1,10 +1,13 @@
 # campion17
 ## I am Alkaid A. Guimbaolibot
 ### From 9 - Campion
-**Born September 30, 2009
+
+**Born September 30, 2009**
 
 *Born in Naga City*
+
 > Things I do: ---
+
 1. Play Guitar
 2. Read manwhas
 3. Reads webnovels
@@ -36,3 +39,5 @@ I need to highlight these ==Joe Biden==.
 "age": 25
 }
 ```
+
+
